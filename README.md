@@ -15,4 +15,12 @@
 **Question:** How can I store and organize a player's training data in Java so the program can save and display progress effectively?
 ## Project Launch 02
 
-This Java proof-of-concept demonstrates how the Basketball Training Tracker can collect shooting data from a user and calculate their shooting percentage. It also uses decision-making to provide feedback based on the user's shooting performance.
+I created a Java proof-of-concept for the Basketball Training Tracker. It takes shooting data as input, calculates the player's shooting percentage, and gives feedback based on the result.
+
+### What This Proves
+
+* User input
+* Calculation
+* Decision-making
+* Clear output
+
