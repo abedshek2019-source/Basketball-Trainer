@@ -23,4 +23,13 @@ I created a Java proof-of-concept for the Basketball Training Tracker. It takes 
 * Calculation
 * Decision-making
 * Clear output
+* ## System Design
+
+### Class Diagram
+
+![Class Diagram](planning/basketball_training_tracker_class_diagram.png)
+
+### Logic Flow Diagram
+
+![Logic Flow](planning/basketball_training_tracker_logic_flow.png)
 
