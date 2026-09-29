@@ -27,7 +27,7 @@ I created a Java proof-of-concept for the Basketball Training Tracker. It takes 
 
 ### Class Diagram
 
-![Class Diagram](planning/basketball_training_tracker_class_diagram.png)
+![Class Diagram](planning/basketball_training_tracker_class_diagram(1).png)
 
 ### Logic Flow Diagram
 
